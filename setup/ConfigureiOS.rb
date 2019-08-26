@@ -19,7 +19,7 @@ module Pod
       configurator.set_test_framework("xctest", "m", "ios")
 
 
-      prefix = "OYO"
+      prefix = "LXX"
 
       Pod::ProjectManipulator.new({
         :configurator => @configurator,
