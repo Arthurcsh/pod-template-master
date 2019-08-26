@@ -1,5 +1,5 @@
 source 'https://github.com/CocoaPods/Specs.git'
-source 'http://gitlab.infra.ahotels.tech/ios/Common/OYOPodspecs.git'
+source 'http://gitlab.arthurcsh.tech/ios/Pod/Podspecs.git'
 
 use_frameworks!
 platform :ios, '9.0'
